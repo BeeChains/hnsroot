@@ -7,3 +7,5 @@
 # At [Inner I Net Company](http://dlink.innerinetcompany.hns.to/), our Handshake Top Level Domains are nourished from the ROOT OF PERCEPTION to spiritualize potentials for an abundance of fruits. [Own The Web 3](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality](http://innerinetcompany.shapereality.hns.to/) while customizing [The Root Zone](http://therootzone.hns.to/) File of the Internet with our [HNS-DOMAINS](http://home.hns-domains.hns.to/).
 
 - [Handshake DNS Root](https://en.wikipedia.org/wiki/Alternative_DNS_root#Handshake)
+- [Handshake.org/](https://handshake.org/)
+- [NameBase.io/](https://www.namebase.io/blog/tutorial-1-what-is-handshake-and-hns/) What is Handshake?
